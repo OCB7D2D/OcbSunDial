@@ -47,5 +47,5 @@ MonoBehaviour:
   StripLightmapShadowMask: 1
   StripLightmapSubtractive: 1
   Objects:
-  - {fileID: 8845596320933020741, guid: def29940181b385499fbd636ff192f09, type: 3}
-  - {fileID: 775407655164028666, guid: ba9870181ee590f49804e7e488098a9e, type: 3}
+  - {fileID: 5141129705269902913, guid: def29940181b385499fbd636ff192f09, type: 3}
+  - {fileID: 1688184980867745673, guid: ba9870181ee590f49804e7e488098a9e, type: 3}
