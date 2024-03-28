@@ -1,0 +1,13 @@
+<configs>
+
+    <append xpath="/recipes">
+
+        <recipe name="OcbSunDialVariantHelper" count="1" craft_time="120" craft_area="workbench" tags="workbenchCrafting">
+            <ingredient name="resourceRockSmall" count="20"/>
+            <ingredient name="resourceScrapBrass" count="20"/>
+            <ingredient name="resourceWood" count="5"/>
+        </recipe>
+
+    </append>
+
+</configs>

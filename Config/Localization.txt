@@ -1,0 +1,5 @@
+Key,english
+OcbSunDial01,Sun Dial 01
+OcbSunDial02,Sun Dial 02
+OcbSunDialVariantHelper,Sun Dial
+OcbSunDialDescription,"Put the sun dial on a sunlit wall, facing north, to tell roughly the time during the day."
