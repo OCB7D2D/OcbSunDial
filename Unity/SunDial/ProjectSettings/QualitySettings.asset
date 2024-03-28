@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!47 &1
+QualitySettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 5
+  m_CurrentQuality: 5
+  m_QualitySettings:
+  - serializedVersion: 2
+    name: Very Low
+    anisotropicTextures: 1
+  - serializedVersion: 2
+    name: Low
+    anisotropicTextures: 1
+  - serializedVersion: 2
+    name: Medium
+    anisotropicTextures: 1
+  - serializedVersion: 2
+    name: High
+    anisotropicTextures: 1
+  - serializedVersion: 2
+    name: Very High
+    anisotropicTextures: 1
+  - serializedVersion: 2
+    name: Ultra
+    anisotropicTextures: 1
