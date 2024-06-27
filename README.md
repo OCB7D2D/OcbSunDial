@@ -1,6 +1,8 @@
-# OCB Sun Dial Modlet - 7 Days to Die (A21) Addon
+# OCB Sun Dial Mod - 7 Days to Die (V1.0 exp) Addon
 
 Small Harmony (Non-EAC) Mod adding a working sun dial.
+
+[![GitHub CI Compile Status][3]][2]
 
 ## Overhaul compatibility
 
@@ -12,10 +14,11 @@ analog clocks mod, which can be built at a later stage.
 
 ## Download and Install
 
-[Download from GitHub releases][1] and extract into your A21 Mods folder!  
-Ensure you don't have double nested folders and ModInfo.xml is at right place!
+End-Users are encouraged to download my mods from [NexusMods][5].  
+Every download there helps me to buy stuff for mod development.
 
-[![GitHub CI Compile Status][3]][2]
+Otherwise please use one of the [official releases][2] here.  
+Only clone or download the repo if you know what you do!
 
 ## Credits for used models
 
@@ -23,13 +26,14 @@ Big shout-out to Mumpfy for making the models for me!
 
 ## Changelog
 
+### Version 0.1.0
+
+- First compatibility with V1.0 (exp)
+- Bumped unity version to 2022.3.29f1
+
 ### Version 0.0.1
 
 - Initial version
-
-## Compatibility
-
-I've developed and tested this Mod against version a21.2b30.
 
 [1]: https://github.com/OCB7D2D/OcbSunDial/releases
 [2]: https://github.com/OCB7D2D/OcbSunDial/actions/workflows/ci.yml
