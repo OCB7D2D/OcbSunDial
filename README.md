@@ -14,7 +14,7 @@ analog clocks mod, which can be built at a later stage.
 
 ## Download and Install
 
-End-Users are encouraged to download my mods from [NexusMods][5].  
+End-Users are encouraged to download my mods from [NexusMods][4].  
 Every download there helps me to buy stuff for mod development.
 
 Otherwise please use one of the [official releases][2] here.  
@@ -38,3 +38,4 @@ Big shout-out to Mumpfy for making the models for me!
 [1]: https://github.com/OCB7D2D/OcbSunDial/releases
 [2]: https://github.com/OCB7D2D/OcbSunDial/actions/workflows/ci.yml
 [3]: https://github.com/OCB7D2D/OcbSunDial/actions/workflows/ci.yml/badge.svg
+[4]: https://www.nexusmods.com/7daystodie/mods/4686
