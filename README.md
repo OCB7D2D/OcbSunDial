@@ -1,4 +1,4 @@
-# OCB Sun Dial Mod - 7 Days to Die (V2.0) Addon
+# OCB Sun Dial Mod - 7 Days to Die (V2.1) Addon
 
 Small Harmony (Non-EAC) Mod adding a working sun dial.
 
